@@ -8,11 +8,11 @@ How to install and run this in your pc:
 
 2. After installing go, get the files here and put them in a folder, name it whatever you want.
   ![Screenshot 2023-05-22 154748](https://github.com/treysarkar/MarkDown-Editor/assets/114014605/090425c8-9315-4a0b-a2f6-8a8d5583d158)  
-4. Now, open your cmd and go to the directory where those files are stored. 
+3. Now, open your cmd and go to the directory where those files are stored. 
    
 
-5. Next you have to install fyne into your system, follow this to install it https://developer.fyne.io/started/
-6. Finally, once all those things are done, type go run main.go and there you will have it. (It might take some time the first time you are doing it)
+4. Next you have to install fyne into your system, follow this to install it https://developer.fyne.io/started/
+5. Finally, once all those things are done, type go run main.go and there you will have it. (It might take some time the first time you are doing it)
 
 ![Screenshot 2023-05-22 154854](https://github.com/treysarkar/MarkDown-Editor/assets/114014605/5eb4a769-c714-477b-b1b3-9fe20525c5fe)
 
@@ -21,6 +21,7 @@ Incase, you want to use the icon.png file and create an executable for your comp
 
 1. Assuming, that you have fyne installed.
 2. Type in your command prompt/terminal "fyne package -os windows -icon icon.png -name Markdown", without quotes
+
 3.You will have your executable ready.
 
 Some important instructions:
